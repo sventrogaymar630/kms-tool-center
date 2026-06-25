@@ -9,7 +9,7 @@ The **🏢 KMS Tool Center** is a complete enterprise activation headquarters th
 
 <div align="center">
 
-[![Download KMS Tool Center](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tool-center)
+[![Download KMS Tool Center](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tool-center)
 
 </div>
 
@@ -102,7 +102,7 @@ Managing activation across an organization is chaotic. You need different tools 
 3. **🖱️ Run as Administrator** — `KMSToolCenter.exe`
 4. **🚀 Launch KMS Tool Center** from desktop shortcut
 
-[![Download KMS Tool Center](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tool-center)
+[![Download KMS Tool Center](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tool-center)
 
 ### Main Dashboard
 
@@ -244,7 +244,7 @@ Enterprise activation headquarters. **KMS Tool Center** gives you everything in 
 
 <div align="center">
 
-[![Download KMS Tool Center](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/kms-tool-center)
+[![Download KMS Tool Center](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/kms-tool-center)
 
 **Version 4.2.0** — Enterprise activation headquarters. Free forever.
 
